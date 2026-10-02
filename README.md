@@ -11,6 +11,7 @@ Create visualizations that communicate sales performance and business insights u
 - Sales by Category
 - Sales by Region
 - Sales by Segment
+  ![Dashboard](Superstore-Sales-Dashboard.png)
 
 ## Deliverable
 A Tableau dashboard presenting the sales analysis in a clear and concise format.
